@@ -1,0 +1,163 @@
+
+body{
+  margin: 0;
+
+  text-align: center;
+  font-family: 'Mochiy Pop P One', sans-serif
+
+}
+p{
+  line-height: 2;
+}
+
+h1{
+  font-size: 90px;
+  margin: 50px auto 0 auto;
+  font-family: 'Kdam Thmor Pro', sans-serif;
+color : #66BFBF;
+
+}
+.middle-container{
+  margin: 100px 0;
+}
+
+
+.bb{
+  background-color:#E8F9FD;
+}
+.p7{
+  margin: auto;
+  width: 30%;
+}
+
+span{
+  text-decoration: underline;
+}
+
+.top{
+  position: absolute;
+  right: 200px;
+  top: 40px;
+}
+
+.bottom{
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+.bb{
+  padding-top: 100px;
+}
+.jellow{
+  height:300px;
+  margin-top: 40px;
+}
+
+
+.Pro{
+  height: 300px;
+}
+h2{
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+
+
+h3{
+  color:  #11999E
+}
+.skill-row{
+  width: 50%;
+  margin: auto;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.football{
+  height: 250px;
+ float: left;
+ margin-right: 40px;
+}
+
+.p1{
+  margin: auto;
+  width: 30%;
+}
+
+.pro{
+  height: 250px;
+ float: right;
+ margin-left: 40px;
+
+}
+hr{
+    border-color: #EAF6F6;
+    border-width: 15px;
+    border-style: dotted none none;
+    width: 10%;
+    margin: 100px auto;
+
+}
+.bottom-container{
+  background-color:  #66BFBF;
+padding: 50px 0 20px;
+}
+
+
+.contact-me{
+position: relative;
+bottom: 60px;
+}
+
+.btn{
+  display: inline-block;
+  margin-top: 40px;
+
+}
+
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Mochiy Pop P One;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+
+a{
+  margin: 20px 10px;
+
+    color: #11999E;
+    text-decoration: none;
+}
+a:hover{
+  color: #EAF6F6;
+}
+
+.copi{
+color: #EAF6F6;
+ font-size: 0.75rem;
+ padding-top: 37px;
+}
